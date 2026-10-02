@@ -1,0 +1,9 @@
+# Environment variables - NEVER commit .env to version control
+.env
+
+# Dependencies
+node_modules/
+
+# Lock files (optional - some teams commit these)
+package-lock.json
+yarn.lock
